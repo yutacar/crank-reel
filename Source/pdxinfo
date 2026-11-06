@@ -1,0 +1,6 @@
+name=Crank Reel
+description=A hand-cranked pixel animation studio.
+bundleID=com.yutacar.crankreel
+version=0.8.2
+buildNumber=12
+imagePath=launcher
